@@ -3,7 +3,7 @@
 
 <img src="map.png" width="600" height="450" />
 
-# A user running the project should be able to input values between 0 and 100 for the start x, start y, end x, and end y coordinates of the search, and the project should find a path between the points.
+#### A user running the project should be able to input values between 0 and 100 for the start x, start y, end x, and end y coordinates of the search, and the project should find a path between the points.
 
 ![Example](https://github.com/sbasu26/OpenStreetMap-Route-Planner-using-A-Search/blob/main/UserInputOutput.png)
 
